@@ -1,7 +1,3 @@
 spring:
   application:
     name: links-shortener
-  redis:
-    host: localhost
-    password: passwordtest
-    port: 6379
